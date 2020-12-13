@@ -25,4 +25,4 @@ Lastly, I wanted to wrap the beginning of the body with an aria-label for more a
 [MIT](https://choosealicense.com/licenses/mit/)
 
 [github](github.com/Runcatlady/homework1/)
-[url](http://runcatlady.github.io/homework1/)
+[url](http://runcatlady.github.io/homework1/.)
